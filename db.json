@@ -1,0 +1,172 @@
+{
+  "articles": [
+    {
+      "slug": "how-to-learn-react",
+      "title": "Как научиться использовать React",
+      "description": "Руководство по изучению React",
+      "body": "React - это JavaScript-библиотека для создания пользовательских интерфейсов. Она предоставляет мощные инструменты для разработки сложных веб-приложений с минимальной конфигурацией.",
+      "tagList": [
+        "react",
+        "javascript"
+      ],
+      "favorited": false,
+      "favoritesCount": 0,
+      "author": {
+        "username": "john_doe",
+        "bio": "Студент программирования",
+        "image": "https://example.com/john_doe.jpg",
+        "following": false
+      },
+      "createdAt": "2023-01-01T12:00:00Z",
+      "updatedAt": "2023-01-01T12:00:00Z",
+      "id": "7a0d"
+    },
+    {
+      "slug": "react-hooks-explained",
+      "title": "Разъяснение хуков React",
+      "description": "Понимание и использование хуков в React",
+      "body": "Хуки - это функциональные компоненты React, которые позволяют использовать состояние и другие возможности React без классов. В этой статье мы рассмотрим...",
+      "tagList": [
+        "react",
+        "hooks"
+      ],
+      "favorited": false,
+      "favoritesCount": 0,
+      "author": {
+        "username": "mike_jones",
+        "bio": "Разработчик с большим опытом работы",
+        "image": "https://example.com/mike_jones.jpg",
+        "following": false
+      },
+      "createdAt": "2023-03-22T14:00:00Z",
+      "updatedAt": "2023-03-23T11:15:00Z",
+      "id": "fb34"
+    },
+    {
+      "slug": "how-to-optimize-react-app-performance",
+      "title": "Как оптимизировать производительность приложения React",
+      "description": "Техники для улучшения производительности React-приложений",
+      "body": "Оптимизация производительности критически важна для создания быстрых и плавных пользовательских интерфейсов. В этой статье мы рассмотрим ключевые техники и стратегии для...",
+      "tagList": [
+        "react",
+        "performance"
+      ],
+      "favorited": false,
+      "favoritesCount": 0,
+      "author": {
+        "username": "alice_williams",
+        "bio": "Специалист по производительности веб-приложений",
+        "image": "https://example.com/alice_williams.jpg",
+        "following": false
+      },
+      "createdAt": "2023-05-01T09:30:00Z",
+      "updatedAt": "2023-05-02T13:45:00Z",
+      "id": "403d"
+    },
+    {
+      "slug": "advanced-react-routing-with-react-router-dom",
+      "title": "Расширенное маршрутизацию в React с react-router-dom",
+      "description": "Продвинутые навыки использования react-router-dom",
+      "body": "React Router - это мощный инструмент для управления маршрутизацией в React-приложениях. В этой статье мы рассмотрим продвинутые концепции и практики для эффективного использования react-router-dom.",
+      "tagList": [
+        "react",
+        "routing"
+      ],
+      "favorited": true,
+      "favoritesCount": 1,
+      "author": {
+        "username": "bob_doe",
+        "bio": "Разработчик фронтенда с многолетним стажем",
+        "image": "https://example.com/bob_doe.jpg",
+        "following": false
+      },
+      "createdAt": "2023-06-15T16:00:00Z",
+      "updatedAt": "2023-06-16T10:45:00Z",
+      "id": "667b"
+    },
+    {
+      "id": "a8e2",
+      "slug": "привет",
+      "title": "dDDDDPPDPDPПриветdssddsd",
+      "description": "PlfhjsjsПриветfdhgfdhgfdhgfdhgdfh",
+      "body": "ввПриыврапыпровsddsdsапрвпрапвыпова",
+      "tagList": [
+        "ыввыпрпврып"
+      ],
+      "favorited": true,
+      "favoritesCount": 1,
+      "author": {
+        "username": "ЛГарина",
+        "uid": "KnuRPVZryNPWX89QujiDgIktSQ52",
+        "bio": "A passionate writer.",
+        "image": "https://i.pravatar.cc/150?img=1",
+        "following": false
+      },
+      "createdAt": "2025-01-26T16:39:30.395Z",
+      "updatedAt": "2025-01-26T16:39:30.395Z"
+    },
+    {
+      "id": "6236",
+      "slug": "выыыыыыыыыыыы",
+      "title": "выыыыыыыыыыыы",
+      "description": "ыыыывывывывывывывывывывывыв",
+      "body": "ывывывывывывывывывыв",
+      "tagList": [
+        "ывывывывывывывывывыв"
+      ],
+      "favorited": true,
+      "favoritesCount": 1,
+      "author": {
+        "username": "ЗГарина",
+        "uid": "KnuRPVZryNPWX89QujiDgIktSQ52",
+        "bio": "A passionate writer.",
+        "image": "https://i.pravatar.cc/150?img=1",
+        "following": false
+      },
+      "createdAt": "2025-01-31T06:00:43.617Z",
+      "updatedAt": "2025-01-31T06:00:43.617Z"
+    },
+    {
+      "id": "7459",
+      "slug": "ывывывывывывывывывывывывывыв",
+      "title": "ывывывывывывывывывывывывывыв",
+      "description": "вававававававававававававава",
+      "body": "вавававававававававававававававававава",
+      "tagList": [
+        "авав"
+      ],
+      "favorited": false,
+      "favoritesCount": 0,
+      "author": {
+        "username": "ЗГарина",
+        "uid": "KnuRPVZryNPWX89QujiDgIktSQ52",
+        "bio": "A passionate writer.",
+        "image": "https://i.pravatar.cc/150?img=1",
+        "following": false
+      },
+      "createdAt": "2025-01-31T13:18:17.764Z",
+      "updatedAt": "2025-01-31T13:18:17.764Z"
+    },
+    {
+      "id": "23ad",
+      "slug": "авввввввввввв",
+      "title": "авввввввввввв",
+      "description": "ввввввввввввввввввввв",
+      "body": "вввввввввввввввввввввввв",
+      "tagList": [
+        "ввввввввввввввввв"
+      ],
+      "favorited": false,
+      "favoritesCount": 0,
+      "author": {
+        "username": "ЗГарина",
+        "uid": "KnuRPVZryNPWX89QujiDgIktSQ52",
+        "bio": "A passionate writer.",
+        "image": "https://i.pravatar.cc/150?img=1",
+        "following": false
+      },
+      "createdAt": "2025-01-31T13:18:33.464Z",
+      "updatedAt": "2025-01-31T13:18:33.464Z"
+    }
+  ]
+}

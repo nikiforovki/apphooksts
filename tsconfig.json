@@ -1,0 +1,58 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6",
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "jsx": "react-jsx",
+    "moduleResolution": "Node",
+    "resolveJsonModule": true,
+    "baseUrl": "./src",
+    "paths": {
+      "@app/*": ["app/*"],
+      "@entities/*": ["entities/*"],
+      "@features/*": ["features/*"],
+      "@features/Feed": ["features/feed/Feed"],
+      "@features/GlobalFeed": ["features/globalFeed/GlobalFeed"],
+      "@features/EditArticle": ["features/editArticle/EditArticle"],
+
+      "@pages/*": ["pages/*"],
+      "@pages/Home": ["pages/home/Home"],
+      "@pages/SignIn": ["pages/singin/SIngIn"],
+      "@pages/SignUp": ["pages/singup/SingUp"],
+      "@pages/GlobalFeedPage": ["pages/GlobalFeedPage/GlobalFeedPage"],
+      "@pages/MyFeedPage": ["pages/MyFeedPage/MyFeedPage"],
+      "@pages/TagFeedPage": ["pages/TagFeedPage/TagFeedPage"],
+      "@pages/CreateArticle": ["pages/createArticle/CreateArticle"],
+      "@pages/Settings": ["pages/settings/Settings"],
+      "@pages/UserProfiles": ["pages/userProfiles/UserProfiles"],
+      "@pages/FavouritesPage": ["pages/favouritesPage/FavouritesPage"],
+
+      "@shared/*": ["shared/*"],
+      "@shared/api": ["shared/api/api"],
+      "@shared/FeedTogler": ["shared/feedTogler/FeedToggler"],
+      "@shared/UserFeedTogler": ["shared/userFeedToggler/UserFeedToggler"],
+      "@shared/hooks/useFetch": ["shared/hooks/useFetch/useFetch"],
+      "@shared/hooks/uselocalstorage": [
+        "shared/hooks/uselocalstorage/uselocalstorage"
+      ],
+      "@shared/hooks/useFilteredArticles": [
+        "shared/hooks/useFilteredArticles/useFilteredArticles"
+      ],
+      "@shared/PopularTags": ["shared/popularTags/PopularTags"],
+      "@shared/ArticleForm": ["shared/articleForm/ArticleForm"],
+      "@shared/CurentUser": ["shared/context/curentUser"],
+      "@shared/CurrentUserChecker": ["shared/useCurrentUserChecker"],
+      "@shared/UserFeedToggler": ["shared/userFeedToggler/UserFeedToggler"],
+      "@widgets/*": ["widgets/*"],
+      "@widgets/Header": ["widgets/layout/header/Header"],
+
+      "@components/*": ["components/*"]
+    }
+  },
+  "include": ["src/**/*", "dotenv-webpack.d.ts", "server.js"]
+}
